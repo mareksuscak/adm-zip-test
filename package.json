@@ -1,0 +1,20 @@
+{
+  "name": "adm-zip-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "lodash.difference": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "postinstall": "npm start",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
